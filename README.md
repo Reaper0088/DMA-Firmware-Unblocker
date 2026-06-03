@@ -15,7 +15,7 @@ https://newprojectjp.com/index.php/product-category/hardware-firmware/
 https://newprojectjp.com/index.php/product/dma-firmware-unblocker/
 
 ## 👤 New Project JP Owners
-**Two owners only:**
+** Owners:**
 
 - **! Avalon**  
   Display Name: Avalon  
@@ -25,7 +25,7 @@ https://newprojectjp.com/index.php/product/dma-firmware-unblocker/
   Display Name: !AA  
   UserName: _ju5tvicky
 
-## ⚠️ Warning
+## ⚠️⚠️ Warning ⚠️⚠️
 **New Project JP is providing this tool "as is" and it is a Full malware.**  
 
 I (Reaper0088) fully reversed this tool and researched every single file. It contains:
