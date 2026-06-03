@@ -27,7 +27,7 @@ I (Reaper0088) fully reversed this tool and researched every single file. It con
 - Hidden C++ .sln files and backdoors
 **New Project JP is selling ALL of their products full of malware / trojan.crypt.**
 **Do not buy anything from them.** Their hardware, firmware, and software are all contaminated.
-I cracked this tool under **2 minutes** and fully bypassed the license key system. This is the **crapped version** I will provide.
+I cracked this tool under **2 minutes** and fully bypassed the license key system.
 
 ## 🚨 Critical Security Alert
 **C:\Windows\OMADAPI.DLL (Detected as Trojan.Crypt)**
