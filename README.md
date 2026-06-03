@@ -33,7 +33,7 @@ I cracked this tool under **2 minutes** and fully bypassed the license key syste
 **C:\Windows\OMADAPI.DLL (Detected as Trojan.Crypt)**
 This file has been **actively detected** as a Trojan.Crypt malware variant.
 It is part of the same malicious injection chain that contains the coin miner, info stealer, and backdoors.
-**This DDL is being injected into normal applications and system processes.**
+**This DLL is being injected into normal applications and system processes.**
 Running the tool (even with the cracked version) can result in:
 - Your PC being mined (CPU + GPU)
 - Personal data being stolen
